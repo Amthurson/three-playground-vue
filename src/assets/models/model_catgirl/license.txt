@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gawr Gura - Casual Outfit
+* source:	https://sketchfab.com/3d-models/gawr-gura-casual-outfit-857aa07505364ae891d402ed052da2e6
+* author:	VerbatimHen (https://sketchfab.com/VerbatimHen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gawr Gura - Casual Outfit" (https://sketchfab.com/3d-models/gawr-gura-casual-outfit-857aa07505364ae891d402ed052da2e6) by VerbatimHen (https://sketchfab.com/VerbatimHen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
